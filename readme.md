@@ -12,7 +12,7 @@
 #### 更新：2024.2.1 已经被我们关掉了
 
 #### 前端负责，更多问题联系：
-[沈贝宁（921127940137）](https://beningshum.github.io/)
+[沈贝宁（921127940137）](https://github.com/BeningShum)
 [顾翔（921127940122）](https://eminentgu.github.io/)
 
 
